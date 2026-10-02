@@ -40,7 +40,7 @@ traditional software workflows.
 
 ## 🎯 Current Focus
 
-```yaml
+<pre>
 # bhargavi@dev:~ $ cat focus.yaml
 
 learning:
@@ -57,6 +57,7 @@ building:
       using Agentic AI
 
 status: actively_learning 🚀
+</pre>
 🤖 AI / GenAI
 <p> <img src="https://img.shields.io/badge/Agentic_AI-00AEEF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-F59E0B?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-EC4899?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_DB-8B5CF6?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-14B8A6?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Integration-F97316?style=for-the-badge&logoColor=white" /> </p>
 💻 Languages & Frontend
