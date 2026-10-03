@@ -1,25 +1,26 @@
 <div align="center">
 
-<img height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5M2hpZWlucTcyMXgydG1iZGJiODFnNXNpanI1MXZhdnoxbDdzZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5M2hpZWlucTcyMXgydG1iZGJiODFnNXNpanI1MXZhdnoxbDdzZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="210" alt="Coding Animation" />
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=24&duration=2800&pause=900&color=00AEEF&center=true&vCenter=true&width=850&height=55&lines=Hey+%F0%9F%91%8B+I'm+Bhargavi;%F0%9F%A4%96+AGENTIC+AI+EXPLORER;%F0%9F%9A%80+BUILDING+REAL-WORLD+SOLUTIONS;%F0%9F%A7%A0+PROBLEM+SOLVER;Nice+to+meet+you+%E2%98%BA%EF%B8%8F" />
-  </a>
-</p>
+<br><br>
 
-<p>
-  <a href="https://www.linkedin.com/in/bhargavi-bandaru/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhargavi.bandaru9866@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ganas_9866/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BhargaviBandaru98.BhargaviBandaru98" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=24&duration=2800&pause=900&color=00AEEF&center=true&vCenter=true&width=850&height=55&lines=Hey+%F0%9F%91%8B+I'm+Bhargavi;%F0%9F%A4%96+AGENTIC+AI+EXPLORER;%F0%9F%9A%80+BUILDING+REAL-WORLD+SOLUTIONS;%F0%9F%A7%A0+PROBLEM+SOLVER;Nice+to+meet+you+%E2%98%BA%EF%B8%8F" alt="Typing Intro" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/bhargavi-bandaru/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bhargavi.bandaru9866@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ganas_9866/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BhargaviBandaru98.BhargaviBandaru98" />
 
 </div>
 
