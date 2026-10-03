@@ -108,24 +108,24 @@ status: actively_learning 🚀
 
 ---
 
+---
+
 ## 🛠️ Things I'm Building
 
 <table>
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">What it does</th>
-      <th align="left">Technology</th>
+      <th align="left" width="22%">Project</th>
+      <th align="left" width="43%">What it does</th>
+      <th align="left" width="35%">Technology</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td><strong>🏛️ Hall Booking System</strong></td>
       <td>College auditorium / hall booking system</td>
       <td>Node.js • Express.js • MongoDB • WebSocket</td>
     </tr>
-
     <tr>
       <td><strong>🛡️ VerifyWall</strong></td>
       <td>Automating verification of suspicious messages using Agentic AI</td>
@@ -140,10 +140,7 @@ status: actively_learning 🚀
 
 <div align="center">
 
-<img
-  src="https://leetcard.jacoblin.cool/BhargaviBandaru?theme=dark&font=JetBrains%20Mono&ext=heatmap"
-  alt="Bhargavi Bandaru LeetCode Stats"
-/>
+<img src="https://leetcard.jacoblin.cool/BhargaviBandaru?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Bhargavi Bandaru LeetCode Stats" />
 
 </div>
 
@@ -153,29 +150,19 @@ status: actively_learning 🚀
 
 <div align="center">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=BhargaviBandaru98&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3&icon_color=a78bfa&text_color=c9d1d9"
-  alt="GitHub Stats"
-/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BhargaviBandaru98&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3&icon_color=a78bfa&text_color=c9d1d9" alt="Bhargavi's GitHub Stats" />
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviBandaru98&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3&text_color=c9d1d9"
-  alt="Top Languages"
-/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviBandaru98&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc3&text_color=c9d1d9" alt="Bhargavi's Top Languages" />
 
 </div>
 
-<br>
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BhargaviBandaru98&theme=tokyo-night&hide_border=true"
-  alt="Bhargavi's GitHub Activity Graph"
-/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhargaviBandaru98" alt="Bhargavi's GitHub Activity Graph" />
 
 </div>
 
@@ -185,11 +172,7 @@ status: actively_learning 🚀
 
 <div align="center">
 
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhargaviBandaru98&theme=github_dark&bg_color=00000000"
-  alt="GitHub Contributions"
-/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhargaviBandaru98&theme=github_dark&bg_color=00000000" alt="Bhargavi's GitHub Contributions" />
 
 </div>
 
@@ -199,80 +182,44 @@ status: actively_learning 🚀
 
 <table>
   <tbody>
-
     <tr>
       <td width="45">🏆</td>
       <td><strong>Eureka — IIT Bombay E-Cell</strong></td>
       <td><strong>1st Place</strong></td>
     </tr>
-
     <tr>
       <td>🥉</td>
       <td><strong>Innovision 2K24</strong></td>
       <td><strong>3rd Place</strong></td>
     </tr>
-
     <tr>
       <td>🚀</td>
       <td><strong>Smart India Hackathon 2K25</strong></td>
-      <td>Selected from college for national-level hackathon</td>
+      <td><strong>Selected from College</strong></td>
     </tr>
-
     <tr>
       <td>🏆</td>
       <td><strong>AgentX 2026</strong></td>
       <td><strong>Best Innovation Award</strong></td>
     </tr>
-
   </tbody>
 </table>
 
 ---
 
-## 💭 A Thought I Like
-
 <div align="center">
 
-<h3>
-  <em>✨ "First, solve the problem. Then, write the code." ✨</em>
-</h3>
+<h3><em>✨ "First, solve the problem. Then, write the code." ✨</em></h3>
 
-<p>
-  <strong>— John Johnson</strong>
-</p>
+<p><strong>— John Johnson</strong></p>
 
-</div>
+<br>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bhargavi-bandaru/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:bhargavi.bandaru9866@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/ganas_9866/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-✨ Thanks for visiting!
-
+✨ Thanks for visiting!  
 💡 Keep learning • Keep building • Keep solving
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
